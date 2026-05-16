@@ -23,7 +23,7 @@
     <td align="center">
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/><br/><br/>
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge"/><br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/><br/><br/>
@@ -48,7 +48,7 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhishekyd300" target="_blank">
+  <a href="linkedin.com/in/abhishek-yadav-6207ab364" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
