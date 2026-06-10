@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=2ecc71&height=220&section=header&text=Abhishek%20Yadav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20MERN%20Stack%20%C2%B7%20React%20%C2%B7%20Parul%20University&descAlignY=56&descAlign=50&descSize=16)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=2ECC71&center=true&vCenter=true&width=700&height=60&lines=Building+Full-Stack+Web+Applications;Ex+Web+Dev+Intern+%40+Synent+Tech;MERN+Stack+%C2%B7+REST+APIs+%C2%B7+AI-Powered+Apps;2nd+Year+CSE+%40+Parul+University%2C+Vadodara)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=2ECC71&center=true&vCenter=true&width=700&height=60&lines=Building+Full-Stack+Web+Applications;Ex+Web+Dev+Intern+%40+Synent+Tech;MERN+Stack+%C2%B7+REST+APIs+%C2%B7+AI-Powered+Apps;Final+Year+CSE+%40+Parul+University%2C+Vadodara)
 
 </div>
 
