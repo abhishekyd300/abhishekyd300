@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=c0392b&height=220&section=header&text=ABHISHEKYADAV%20Aswar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=COMPUTER%2FSCIENCE%20Engineer%20%C2%B7%20Python%20%C2%B7%20LLMs%20%C2%B7%20Parul%20University&descAlignY=56&descAlign=50&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=c0392b&height=220&section=header&text=ABHISHEK+YADAV%20&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20Student%20Engineer%20%C2%B7%20%C2%B7%20%C2%B7%20Parul%20University&descAlignY=56&descAlign=50&descSize=16)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=E74C3C&center=true&vCenter=true&width=700&height=60&lines=Building+AI+systems+that+actually+work;Ex+AI%2FML+Intern+%40+Reliance+Industries;NL-to-SQL+%C2%B7+LLM+Observability+%C2%B7+Python;3rd+Year+CS+%40+Parul+University%2C+Vadodara)
 
